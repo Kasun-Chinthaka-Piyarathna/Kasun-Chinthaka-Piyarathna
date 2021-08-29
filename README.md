@@ -1,11 +1,16 @@
-### Hi there 👋 I am Kasun Chinthaka, A Senior Software Engineer , Android Engineer, A IT Graduate of University of Moratuwa
+### Hi there 👋 
+### I am Kasun Chinthaka, A Senior Software Engineer , Android Engineer, BSc(Hons) in Information Technology
 
 
- 🔭 I’m currently working as a software engineer<br>
- 🌱 I’m currently learning Android Security Enhancements<br>
- 💬 Ask me about mobile apps development<br>
- 📫 How to reach me: kasunchinthaka555@gmail.com<br>
- ⚡ Fun fact: listening music, watching movies, playing Chess<br>
+ 🔭 &nbsp;&nbsp;I’m currently working as a senior software engineer<br>
+ 🌱 &nbsp;&nbsp;I’m currently learning about Android Security Enhancements<br>
+ 💬 &nbsp;&nbsp;Ask me about mobile apps development<br>
+ 📫 &nbsp;&nbsp;How to reach me: [Linkedin](https://www.linkedin.com/in/kchinthakacodex)<br>
+ ⚡ &nbsp;&nbsp;Hobbies: listening music, watching movies, playing Chess<br>
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kasun-Chinthaka-Piyarathna)](https://github.com/anuraghazra/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kasun-Chinthaka-Piyarathna&show_icons=true&theme=merko&hide=prs,contribs)
+
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasun-Chinthaka-Piyarathna&layout=compact&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
