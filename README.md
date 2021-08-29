@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### I am Kasun Chinthaka, A Senior Software Engineer , Android Engineer, BSc(Hons) in Information Technology
+### I am Kasun Chinthaka, A Senior Software Engineer , Android Engineer & Degree Holder-BSc(Hons) in Information Technology
 ![](https://komarev.com/ghpvc/?username=Kasun-Chinthaka-Piyarathna&color=brightgreen)
 
 
