@@ -6,3 +6,6 @@
  💬 Ask me about mobile apps development<br>
  📫 How to reach me: kasunchinthaka555@gmail.com<br>
  ⚡ Fun fact: listening music, watching movies, playing Chess<br>
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kasun-Chinthaka-Piyarathna)](https://github.com/anuraghazra/github-readme-stats)
+
