@@ -4,7 +4,7 @@
 
 
  🔭 &nbsp;&nbsp;I’m currently working as a senior software engineer<br>
- 🌱 &nbsp;&nbsp;I’m currently learning about Android Security Enhancements, Programming in Python & C# <br>
+ 🌱 &nbsp;&nbsp;I’m currently learning about Android Security Enhancements, Programming in React Js, Python, AI, ML <br>
  💬 &nbsp;&nbsp;Ask me more about mobile apps development<br>
  :smiley:&nbsp;&nbsp; Dont underestimate me on full stack development.I have experience working with mobile, web and backend development<br>
  📫 &nbsp;&nbsp;How to reach me: [Linkedin](https://www.linkedin.com/in/kchinthakacodex)<br>
