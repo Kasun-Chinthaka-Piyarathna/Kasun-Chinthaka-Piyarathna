@@ -1,10 +1,10 @@
 ### Hi there 👋 
-### I am Kasun Chinthaka, A Senior Software Engineer , Android Engineer, Frontend Engineer,  A Degree Holder-BSc(Hons) in Information Technology & MSc in Advanced Software Engineering(Reading) 
+### I am Kasun Chinthaka, A Senior Software Engineer , Android Engineer, Frontend Engineer, Full Stack Engineer, A Degree Holder-BSc(Hons) in Information Technology & MSc in Advanced Software Engineering(Reading) 
 ![](https://komarev.com/ghpvc/?username=Kasun-Chinthaka-Piyarathna&color=brightgreen)
 
 
  🔭 &nbsp;&nbsp;I’m currently working as a senior software engineer<br>
- 🌱 &nbsp;&nbsp;I’m currently learning about Android Security Enhancements, Programming in React Js, Python, AI, ML <br>
+ 🌱 &nbsp;&nbsp;I’m currently learning about Android Security Enhancements, Programming in React Js, Spring, Springboot, AI, ML <br>
  💬 &nbsp;&nbsp;Ask me more about mobile apps development<br>
  :smiley:&nbsp;&nbsp; Dont underestimate me on full stack development.I have experience working with mobile, web and backend development<br>
  📫 &nbsp;&nbsp;How to reach me: [Linkedin](https://www.linkedin.com/in/kchinthakacodex)<br>
