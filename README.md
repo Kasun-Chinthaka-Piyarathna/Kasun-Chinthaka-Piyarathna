@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Kasun-Chinthaka-Piyarathna&color=brightgreen)
 
 
- 🔭 &nbsp;&nbsp; I’m currently working as a tech lead engineer<br>
+ 🔭 &nbsp;&nbsp; I’m currently working as a Technical Lead Engineer<br>
  🌱 &nbsp;&nbsp; I have experience working with Java, Spring, SpringBoot, Azure, Javascript, React, Android, MySQL, MongoDB<br>
  📫 &nbsp;&nbsp; How to reach me: [Linkedin](https://www.linkedin.com/in/kchinthakacodex)<br>
  ⚡ &nbsp;&nbsp; Hobbies: listening to music, watching movies, playing Chess<br>
